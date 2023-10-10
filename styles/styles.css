@@ -1,6 +1,6 @@
 html,
 body {
-    font-family: 'Merriweather Sans', sans-serif;
+    font-family: Tahoma; /*changed from 'Merriweather Sans', sans-serif*/
 }
 
 .section {
